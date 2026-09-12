@@ -49,4 +49,3 @@ npm test
 ## Technology
 
 React, TypeScript, vinext, Vite, and Cloudflare-compatible deployment tooling.
-
